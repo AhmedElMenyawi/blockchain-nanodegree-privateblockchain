@@ -1,3 +1,6 @@
+# Note
+This project wasn't 100% implemented by me it is a clone of project_1_v2_boilerplate udacity's project in the process of completing the block chain development nano degree.
+
 # Private Blockchain Application
 
 You are starting your journey as a Blockchain Developer, this project allows you to demonstrate
